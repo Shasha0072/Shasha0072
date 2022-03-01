@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashwat Adhau
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Software Development and Web Development.
 - 🌱 I’m currently learning Python, HTML and CSS
 - 💞️ I’m looking to collaborate on projects which add value to my current skill.
 - 📫 How to reach me shashwatadhau3@gmail.com
