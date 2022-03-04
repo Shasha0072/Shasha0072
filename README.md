@@ -1,3 +1,4 @@
+  <script src="https://kit.fontawesome.com/de72152834.js" crossorigin="anonymous"></script>
 - 👋 Hi, I’m Shashwat Adhau
 - 👀 I’m interested in Software Development and Web Development.
 - 🌱 I’m currently learning Python, HTML and CSS
